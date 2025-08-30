@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.google.com)",
+      "WebFetch(domain:hwchronicle.com)",
+      "WebFetch(domain:hwchronicle.com)",
+      "WebFetch(domain:hwchronicle.com)",
+      "WebFetch(domain:hwchronicle.com)",
+      "WebFetch(domain:hwchronicle.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
